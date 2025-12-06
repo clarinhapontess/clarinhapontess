@@ -1,16 +1,26 @@
-## Hi there 👋
+##  oiee, meu nome é Maria Clara Pontes .ೀ (ela/dela)
+ estudante de ciência da computação na Cesar School
 
-<!--
-**clarinhapontess/clarinhapontess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  áreas de interesse
+- cybersegurança
+- ciência de dados  
+- computação gráfica  
 
-Here are some ideas to get you started:
+###  áreas de conhecimento 
+- Arduino 
+- HTML / CSS / JavaScript  
+- Java 
+- Python
+- C 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  o que encontrar por aqui 
+- projetos de estudo  
+- codigos de teste  
+- exercicios de aprendizado  
+
+
+###  contato
+- **e-mail:** clarapontes2502@gmail.com 
+- **linkedIn:** www.linkedin.com/in/maria-clara-pontes-972684393
+- **slack:**   @Clara Pontes
+
